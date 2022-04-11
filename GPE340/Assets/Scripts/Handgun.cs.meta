@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e25a7e1d6027a84a8dc0fea67821c16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rightHandGrip: {instanceID: 0}
+  - leftHandGrip: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - FirePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
